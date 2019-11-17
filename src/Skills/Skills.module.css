@@ -1,0 +1,39 @@
+.skills{
+     height: 100vh;
+     background-color: coral;
+    display: flex;
+    justify-content: center;
+ }
+.container {
+    border: 1px solid;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.lists{
+display: flex;
+    border: 1px solid;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.list{
+
+    border: 1px solid;
+    height: 500px;
+    width: 200px;
+}
+.oneList{
+    border: 1px solid;
+}
+.twoList{
+    border: 1px solid;
+}
+
+
+
+.container span {
+    align-self: center;
+}

@@ -1,0 +1,13 @@
+.header{
+    height: 60px;
+    background-color: greenyellow ;
+    display: flex;
+    justify-content: center;
+}
+.container{
+border: 1px solid;
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

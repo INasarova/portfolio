@@ -1,0 +1,29 @@
+.main {
+    height: 100vh;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 1px solid;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.greeting {
+    display: flex;
+    flex-direction: column;
+
+    border: 1px solid;
+}
+
+.photo {
+    border: 1px solid;
+    width: 400px;
+    height: 300px;
+    display: flex;
+
+}
